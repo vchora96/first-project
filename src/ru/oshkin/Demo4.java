@@ -8,7 +8,7 @@ public class Demo4 {
         System.out.println("a = ");
         double a = scanner.nextDouble();
         double v = Math.pow(a, 3);
-        double v1 = Math.pow(a, 3);
+        double v1 = Math.pow(a, 3); //gfcfgfugugtuvtvtvtvtyttftyf
         double s = 6 * Math.pow(a, 2);
         System.out.println("s =" + s);
 
